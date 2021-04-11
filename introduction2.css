@@ -1,0 +1,190 @@
+.title {
+  text-align: center;
+  font-size: 100px;
+}
+#J {
+  color: blue;
+}
+#U {
+  color: red;
+}
+#N1 {
+  color: orange;
+}
+#H {
+  color: blue;
+}
+#W {
+  color: green;
+}
+#A {
+  color: red;
+}
+#N2 {
+  color: gray;
+}
+#picture {
+  width: 300px;
+  border-radius: 40px;
+}
+#picture:hover {
+}
+.first_menu {
+  margin-top: 100px;
+}
+body {
+  background-color: rgb(44, 62, 80);
+  height: 4000px;
+}
+#soccer {
+  margin-left: 18%;
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+}
+#soccer:hover {
+  width: 310px;
+  height: 310px;
+}
+#hobby_written {
+  color: gray;
+  margin-left: 22%;
+  font-size: 50px;
+  font-weight: bold;
+}
+#history {
+  margin-left: 29%;
+}
+#resume {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+}
+#resume:hover {
+  width: 310px;
+  height: 310px;
+}
+#history_written {
+  color: rgb(0, 122, 204);
+  margin-left: 36%;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.second_menu {
+  margin-top: 100px;
+}
+#mbti_logo {
+  width: 300px;
+  height: 300px;
+  margin-left: 18%;
+  border-radius: 20px;
+}
+#mbti_logo:hover {
+  width: 310px;
+  height: 310px;
+}
+
+#instagram_logo {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  margin-left: 29%;
+}
+#instagram_logo:hover {
+  width: 310px;
+  height: 310px;
+}
+
+#mbti_written {
+  color: orange;
+  margin-left: 22%;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#instagram_written {
+  color: green;
+  margin-left: 34%;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.line1 {
+  color: white;
+  height: 2px;
+}
+#hobby_title {
+  color: gray;
+  font-style: unset;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#soccerball_logo {
+  width: 50%;
+  height: 300px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+#health_logo {
+  width: 50%;
+  height: 300px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+#netflix_logo {
+  width: 50%;
+  height: 300px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+#book_logo {
+  width: 50%;
+  height: 300px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+.hobby_title {
+  font-size: 30px;
+  color: aliceblue;
+}
+.hobby_explanation {
+  font-size: 20px;
+  color: aliceblue;
+}
+#history_explanation1 {
+  color: gray;
+  margin-left: 40%;
+  font-size: 90px;
+  margin-bottom: 10%;
+}
+.history_explanation2 {
+  color: gray;
+
+  margin-left: 25%;
+  font-size: 60px;
+  font-style: italic;
+}
+#mbti_explanation1 {
+  color: orange;
+  text-align: center;
+  font-size: 90px;
+  margin-bottom: 7%;
+  margin-top: 10%;
+}
+
+#mbti_explanation2 {
+  color: orange;
+  text-align: center;
+  font-size: 70px;
+}
+.mbti_explanation3 {
+  color: orange;
+  text-align: center;
+  font-size: 50px;
+}
+#mbti_explanation {
+  margin-top: 20px;
+  height: 1000px;
+}
